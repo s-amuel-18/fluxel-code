@@ -1437,3 +1437,6 @@ body {
   padding: 0;
   margin-bottom: 15px;
 }
+.vh-36 {
+  min-height: 36vh;
+}
