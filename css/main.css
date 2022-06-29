@@ -659,6 +659,8 @@ body {
   background-image: linear-gradient(135deg, #67d690 0%, #00a99d 100%);
   height: 2px;
   width: 50px;
+  align-self: center;
+  
 }
 
 .video .right p {
