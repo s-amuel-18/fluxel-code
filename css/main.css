@@ -660,7 +660,6 @@ body {
   height: 2px;
   width: 50px;
   align-self: center;
-  
 }
 
 .video .right p {
@@ -1438,6 +1437,9 @@ body {
   margin: 0;
   padding: 0;
   margin-bottom: 15px;
+}
+.flow-h {
+  overflow: hidden;
 }
 .vh-36 {
   min-height: 36vh;
