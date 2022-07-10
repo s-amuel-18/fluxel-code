@@ -1444,3 +1444,43 @@ body {
 .vh-36 {
   min-height: 36vh;
 }
+ /*
+   * ─── GOOGLE TRANSLATE ───────────────────────────────────────────────────────────
+   */
+
+    
+
+   #google_translate_element {
+    display: none;
+}
+
+.goog-logo-link {
+    display: none !important;
+}
+
+.goog-te-gadget {
+    color: transparent !important;
+}
+
+body>.skiptranslate {
+    display: none;
+
+}
+
+body {
+    top: 0px !important;
+}
+
+
+#goog-gt-tt,
+.goog-te-balloon-frame {
+    display: none !important;
+}
+
+.goog-text-highlight {
+    background: none !important;
+    box-shadow: none !important;
+}
+/*
+ * ───────────────────────────────────────────────────────── GOOGLE TRANSLATE ─────
+ */
